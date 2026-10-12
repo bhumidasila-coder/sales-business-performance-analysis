@@ -27,6 +27,7 @@ An Excel-based data analytics project focused on analyzing sales and business pe
 - Customer Analysis
 
 ## Dashboard
+![Sales & Business Performance Dashboard](Dashboard.png)
 The project includes an Excel dashboard for viewing key business performance metrics and analysis.
 
 ## Key Learning Outcomes
